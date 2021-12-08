@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673650363878",
+    "project_id": "fir-login-5f7f1",
+    "storage_bucket": "fir-login-5f7f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673650363878:android:fdedea62284dee6bc21a27",
+        "android_client_info": {
+          "package_name": "org.techtown.firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673650363878-v36vd7a4hsfqvh6p6ftabpigl3fgooeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXx7UmvK0xF6967ylSBQkqBCzx6CZPqlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673650363878-v36vd7a4hsfqvh6p6ftabpigl3fgooeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
